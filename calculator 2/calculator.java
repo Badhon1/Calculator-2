@@ -4,6 +4,7 @@ public class Calculator{
 		System.out.println(addition(3,4));
 		System.out.println(subtraction(13,4));
 	System.out.println(multiplication(4,5));
+	System.out.println(Math.sqrt(a));
 	}
 
 	double addition(double x, int double){
@@ -18,5 +19,6 @@ public class Calculator{
 		
 		return x * y;
 	}
-
+		double a = 30
+		System.out.println(Math.sqrt(a));
 }
